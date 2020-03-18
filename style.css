@@ -18,7 +18,6 @@ h1{
     position: fixed;
     top: 0px;
     width: 100%;
-    /*height: 84px;*/
     background-color: #007765;
 
     font-style: normal;
@@ -36,19 +35,11 @@ h1{
     display: inline-block;
     float: left;
     text-align: justify;
-    /*padding-left: 55px;*/
     padding-top: 20px;
     padding-bottom: 18.96px;
 }
 .header div div{
     display: inline-block;
-    /*position: absolute;
-    width: auto;
-    padding: 0px;
-    top: 29px;
-    right: 54px;
-    padding: auto 54px auto auto;*/
-    /*text-align: right;*/
     margin: 29px 0px 0px 626px;
     width: auto;
 }
