@@ -28,7 +28,7 @@ h1{
     
 }
 .header div{
-    width: 1219px;
+    max-width: 1219px;
     margin: auto;
 }
 .header img{
@@ -58,7 +58,6 @@ h1{
 }
 .pipernet span{
     display: inline-block;
-    /*width: 1219px;*/
     margin-top: 160px;
 
     font-weight: 500;
@@ -73,7 +72,7 @@ h1{
     font-weight: normal;
 }
 .problem div{
-    width: 1219px;
+    max-width: 1219px;
     margin: 0px auto;
     padding: 48px 54px 92px 55px;
     
@@ -100,7 +99,7 @@ h1{
     display: inline-block;
     padding-top: 128px;
     padding-bottom: 127px;
-    width: 893px;
+    max-width: 893px;
     margin: auto ;
 }
 .intro{
@@ -111,7 +110,7 @@ h1{
     line-height: 37px;
 }
 .intro div{
-    width: 1219px;
+    max-width: 1219px;
     margin: auto;
 }
 .intro h1{
@@ -126,14 +125,14 @@ h1{
 }
 .intro .intro2{
     text-align: justify;
-    width: 1219px;
+    max-width: 1219px;
 }
 .team{
     padding: 48px 54px 94px 55px;
     background: #EEEEEE;
 }
 .team div{
-    width: 1219px;
+    max-width: 1219px;
     margin: auto;
     text-align: justify;
 }
@@ -169,8 +168,6 @@ h1{
 }
 .all{
     height: 176px;
-    top: 3138px;
-    height: 176px;
     background: #333333;
     margin-bottom: 0px;
     color: #FFFFFF;
@@ -179,8 +176,7 @@ h1{
 }
 .all span {
     display: inline-block;
-    width: 540px;
-    height: 64px;
+    max-width: 540px;
     padding-top: 48px;
     font-size: 18px;
     line-height: 21px;
